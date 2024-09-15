@@ -131,6 +131,7 @@ body {
     display:flex;
     float:right;
     border-radius: 20%;
+    margin-left: 10px; 
 }
 .ph{
     width:40%;
