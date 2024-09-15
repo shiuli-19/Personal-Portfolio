@@ -758,3 +758,14 @@ color: #081b29;
 .project-box:hover{
     transform:translateY(-10px);
 }
+.project-box a {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    font-weight: bold;
+    color: inherit; /* Optional: Inherit color from parent */
+    text-decoration: none; /* Remove underline */
+}
